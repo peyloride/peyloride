@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hey there, I'm peyloride!👋
 
 <!--
-**peyloride/peyloride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Javascript/Ruby
+- 🌱 I’m currently interesting on Big Data
+
+
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=peyloride&column=8&theme=gruvbox"/>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=peyloride&count_private=true&include_all_commits=true&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyloride&layout=compact&langs_count=8&theme=gruvbox" />
+</div>
