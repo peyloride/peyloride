@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Javascript/Ruby
-- 🌱 I’m currently interesting on Big Data
-
+- 🌱 I’m currently interested on Big Data
+- 📫 How to reach me: okanbinli@gmail.com
+- 💬 Ask me about: Rails, EmberJS, NextJS, React, ThreeJS
+- ⚡ Fun fact: Founder of [Yakit.co](https://yakit.co) 
 
 <h2>🏆 Github Profile Trophy</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=peyloride&column=8&theme=gruvbox"/>
