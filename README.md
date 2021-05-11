@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Javascript/Ruby
-- 🌱 I’m currently interested on Big Data
+- 🔭 I’m currently working on Javascript/Ruby (EmberJS, Rails)
+- 🌱 I’m currently interested on AI and ML
 - 📫 How to reach me: okanbinli@gmail.com
 - 💬 Ask me about: Rails, EmberJS, NextJS, React, ThreeJS
-- ⚡ Fun fact: Founder of [Yakit.co](https://yakit.co) 
+- ⚡ Fun fact: I'm the founder of the [Yakit.co](https://yakit.co) 
 
 <h2>🏆 Github Profile Trophy</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=peyloride&column=8&theme=gruvbox"/>
