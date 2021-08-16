@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Javascript/Ruby (EmberJS, Rails)
-- 🌱 I’m currently interested on AI and ML
+- 🌱 I’m currently interested on Frontend. 
 - 📫 How to reach me: okanbinli@gmail.com
 - 💬 Ask me about: Rails, EmberJS, NextJS, React, ThreeJS
 - ⚡ Fun fact: I'm the founder of the [Yakit.co](https://yakit.co) 
